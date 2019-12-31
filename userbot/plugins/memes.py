@@ -410,15 +410,15 @@ RUNSREACTS = [
 ]
 
 RAPE_STRINGS = [
-     "`_/﹋\_
-
-(҂`_´)
-
-<,︻╦╤─ ҉ - -   @Ganjediibaba H3R3
-
-_/﹋\_
-
-TERI BHEN KI CHUT M GOLI MARU M SALE DIZ DIZ DIZ`",
+     "`TERA BAAP AAYA`"
+     "`MAA CHOD DENGE US BSTI KI JHA KDR NHI GANJEDI JSI HSTI KI`"
+     "`BIG FAN SURR`"
+     "`RULEXX XD AADI`"
+     "`︻╦╤─ ҉ - -   @Ganjediibaba H3R3`"
+     "`GHSTI K BETE`"
+     "`TERI SISSO KI BURR KHA JAU`"
+     "`GANJEDI BABA ON FIRE`"
+     "`TERI BHEN KI CHUT M GOLI MARU M SALE DIZ DIZ DIZ`",
      "`EK baat yaad rkhio, Chut ka Chakkar matlab maut se takkar`",
      "`The user has been successfully raped`",
      "`Dekho Bhaiyya esa hai! Izzat bachailo apni warna Gaand maar lenge tumhari`",
