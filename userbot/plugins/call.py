@@ -54,6 +54,12 @@ async def _(event):
             "`Me: Is There Any Issue/Emergency???`",
             "`Ganjedii: Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
             "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
+            "`Ganjedii: I have one more job for uh`",
+            "`Me: What is the work`",
+            "`Ganjedii: Gibb me ur tool ploxx sir`",
+            "`Me: No way`",
+            "`Ganjedii: love u papa`",
+            "`Me: Me to my gandu son`",
             "`Ganjedi: Sure Sur \nTC Bye Bye :)`",
             "`Private Call Disconnected.`"
         ]
