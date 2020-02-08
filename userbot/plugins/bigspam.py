@@ -1,4 +1,4 @@
-@register(outgoing=True, pattern="^.bigspam")
+(outgoing=True, pattern="^.bigspam")
 async def bigspam(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
         message = e.text
