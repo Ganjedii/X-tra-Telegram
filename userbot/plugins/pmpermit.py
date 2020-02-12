@@ -9,8 +9,8 @@ PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
 
 
-USER_BOT_WARN_ZERO = "I am currently offline. Please do not SPAM me.Else gaand mara dunga bsdk "
-USER_BOT_NO_WARN = "Bleep blop! This is a bot. Don't fret.\n\n" "My master hasn't approved you to PM." "Please wait for my master to look in, he mostly approves PMs.\n\n" "As far as I know, he doesn't usually approve retards though.")# =================================================================
+USER_BOT_WARN_ZERO = `"I am currently offline. Please do not SPAM me.Else gaand mara dunga bsdk "`
+USER_BOT_NO_WARN = `"Bleep blop! This is a bot. Don't fret.\n\n" "My master hasn't approved you to PM."`
 
 if Var.PRIVATE_GROUP_ID is not None:
     @command(pattern="^.approve ?(.*)")
