@@ -9,7 +9,7 @@ PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
 
 
-USER_BOT_WARN_ZERO = `"I am currently offline. Please do not SPAM me.Else gaand mara dunga bsdk "`
+USER_BOT_WARN_ZERO = "I am currently offline. Please do not SPAM me.Else gaand mara dunga bsdk "
 USER_BOT_NO_WARN = `"Bleep blop! This is a bot. Don't fret.\n\n" "My master hasn't approved you to PM."`
 
 if Var.PRIVATE_GROUP_ID is not None:
